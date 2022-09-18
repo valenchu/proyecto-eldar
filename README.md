@@ -3,11 +3,11 @@
 ### Para entrar a la pag swagger donde estan los endpoints:
 
 https://eldar-app.herokuapp.com/swagger-ui/index.html#/
-# proyecto-eldar
+# proyecto-eldar-java-simple
 
-### Para entrar a la pag swagger donde estan los endpoints:
+### Repo proyecto java simple sin DB
 
-https://eldar-app.herokuapp.com/swagger-ui/index.html#/
+https://github.com/valenchu/proyecto-eldar-java/tree/main
 
 ### /card/insertCard (Json para insertar tarjetas nuevas)
 
