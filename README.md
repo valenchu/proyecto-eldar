@@ -1,9 +1,20 @@
-# proyecto-eldar
+# proyecto-eldar-spring
+
+## **TECNOLOGIAS**
+<div align="center">
+<img src="https://user-images.githubusercontent.com/20959371/190889164-4bddaa18-e990-47f7-9f6c-d63b6f9038a1.jpg"  width=50% height=50%>
+</div>
 
 ### Para entrar a la pag swagger donde estan los endpoints:
 
 https://eldar-app.herokuapp.com/swagger-ui/index.html#/
 # proyecto-eldar-java-simple
+
+## **TECNOLOGIAS**
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/20959371/190889425-18527a21-e7cc-424e-861c-016a5b169d1d.jpg"  width=50% height=50%>
+</div>
 
 ### Repo proyecto java simple sin DB
 
