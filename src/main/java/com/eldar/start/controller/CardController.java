@@ -31,7 +31,7 @@ public class CardController {
 	@Autowired
 	CardService cardService;
 	
-	@GetMapping("getAllCards")
+	@GetMapping("/getAllCards")
 	public ResponseEntity<?> getCards(){
 		List<CardEntity> card = cardService.getAllCards();
 		return new ResponseEntity<>(card, HttpStatus.OK);
